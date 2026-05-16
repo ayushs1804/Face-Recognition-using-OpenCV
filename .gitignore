@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+FacialRecognition/dataset/
+FacialRecognition/trainer/
+
+.env
+venv/
